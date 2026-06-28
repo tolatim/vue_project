@@ -4,7 +4,6 @@
     <nav class="navbar">
       <div class="nav-brand">
         <span class="brand-icon">🍽️</span>
-        <span class="brand-name">La Tavola</span>
       </div>
       <div class="nav-links">
         <RouterLink to="/menu" class="nav-link">Menu</RouterLink>
